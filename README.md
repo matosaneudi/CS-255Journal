@@ -16,7 +16,7 @@ If you could choose one part of your work on these documents to revise, what wou
    at the big picture. 
    
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
-   When collecting system requirements or user needs I take notes on what the systemn needs to do to fulfill these needs, then I try to visualize what that would look like. When trying to visualize what that looks like UML diagrams 
+   When collecting system requirements or user needs I take notes on what the system needs to do to fulfill these needs, then I try to visualize what that would look like. When trying to visualize what that looks like UML diagrams 
    are the most helpful way to do that. Also, at times when collection or interpreting user needs I draw inspiration from how I have seen these problems solved before. 
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
